@@ -5,3 +5,12 @@
 #img-hidden {
   position: absolute;
 }
+
+.clickable {
+  color: blue;
+  cursor: pointer;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
