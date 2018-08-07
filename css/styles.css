@@ -1,5 +1,6 @@
 #img-showing {
     display: none;
+    position: absolute;
 }
 
 #img-hidden {
