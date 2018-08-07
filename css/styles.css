@@ -1,3 +1,7 @@
-img {
-  display: none;
+#img-showing {
+    display: none;
+}
+
+#img-hidden {
+  position: absolute;
 }

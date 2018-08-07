@@ -1,5 +1,6 @@
 $(document).ready(function() {
   $("p").click(function() {
-    $("img").show();
+    $("#img-hidden").fadeToggle();
+    $("#img-showing").fadeToggle();
   });
 });
